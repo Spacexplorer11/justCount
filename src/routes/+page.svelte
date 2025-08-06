@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div class="flex flex-col text-center">
+<h1 class="text-6xl mb-5 mt-5">Just Count</h1>
+<h6 class="text-2xl">A simple counter website so you can count how many times you do your tedious tasks that need to be done multiple times a day</h6>
+</div>
